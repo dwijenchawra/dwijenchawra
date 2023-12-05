@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning webscraping, blockchain, and deep learning
+- Check out my page! [https://dwijen.dev](https://dwijen.dev)
 - 📫 How to reach me: dwchawra at gmail dot com
-- 😄 Pronouns: he/him/his
